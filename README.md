@@ -165,14 +165,6 @@ Myntra-Fashion-Clothing-Analysis/
 
 ![Questions and Answers](screenshots/questions_answers.png)
 
-### Analysis Results
-
-![Analysis Results](screenshots/analysis_results.png)
-
-### Lookup Analysis
-
-![Lookup Analysis](screenshots/lookup_analysis.png)
-
 ---
 
 ## Key Skills Demonstrated
