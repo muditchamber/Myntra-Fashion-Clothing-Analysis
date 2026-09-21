@@ -167,6 +167,16 @@ Myntra-Fashion-Clothing-Analysis/
 
 ---
 
+## Full Excel Project
+
+The complete Excel workbook used for this project is available here:
+
+[View Full Excel Project](https://docs.google.com/spreadsheets/d/1v3dcT4KYxxu2UtaCgRsfgdLLmK2eZoTO/edit?usp=sharing&ouid=106846188337537729805&rtpof=true&sd=true)
+
+The workbook contains the complete project dataset, cleaned data, analysis, questions, and answers.
+
+---
+
 ## Key Skills Demonstrated
 
 - Microsoft Excel
