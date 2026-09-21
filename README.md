@@ -204,3 +204,4 @@ It showcases practical use of Excel functions and analytical techniques on a lar
 ## Conclusion
 
 The project provides practical experience in working with a large fashion retail dataset and demonstrates how Microsoft Excel can be used for data cleaning, analysis, classification, and lookup-based data retrieval.
+
